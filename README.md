@@ -21,4 +21,4 @@ A C# console application for managing products.
 
 ## Screenshot
 
-<img src="screenshots/application.png" width="300">
+<img src="screenshots/application.png" width="450">
